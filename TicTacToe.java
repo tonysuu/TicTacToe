@@ -21,7 +21,7 @@ public class TicTacToe {
     
     public static void main(String[] args) {
 	JFrame mainWindow = new JFrame();
-	mainWindow.setTitle("Tic Tac Toe - Computer Science 11 ICS3U ACCI");
+	mainWindow.setTitle("Tic Tac Toe - Computer Science 12 ICS4U ACCI");
 	mainWindow.setSize(BOARD_SIDE, BOARD_SIDE);
 	mainWindow.setLocation(WINDOW_X, WINDOW_Y);
 	mainWindow.setResizable(false);
